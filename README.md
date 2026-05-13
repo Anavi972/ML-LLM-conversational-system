@@ -192,6 +192,6 @@ MIT License
 
 👤 Author
 
-Hirosh P 
+Anavi Gupta  
 
-Intern@Medlern | AI Student | AI/ML Enthusiastic
+AI Student | AI/ML Enthusiastic
