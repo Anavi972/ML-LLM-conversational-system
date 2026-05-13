@@ -44,7 +44,7 @@ Cost Control	❌ Expensive	✅ Efficient
 Explainability	❌ Low	✅ High
 Enterprise Safety	❌ Risky	✅ Reliable
 📂 Project Structure
-enterprise-ai-knowledge-assistant/
+
 ├── api/
 │   ├── main.py
 │   └── routes.py
@@ -125,11 +125,6 @@ FAISS – Vector similarity search
 FastAPI – API layer
 
 SQL / File-based Storage – Metadata & logs
-
-⚙️ Installation
-git clone https://github.com/Hirosh07/Hybrid-ML-LLM-Conversational-System.git
-cd Hybrid-ML-LLM-Conversational-system
-pip install -r requirements.txt
 
 ▶️ Running the Intent Classifier
 cd intent/inference
